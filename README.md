@@ -5,7 +5,5 @@ Current Documents:
 
 Code of Conduct
 
-DEIJ Statement
-
 Land Acknowledgement
 
